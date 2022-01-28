@@ -1,0 +1,4 @@
+io/github/foeyt/Main.java
+ io.github.foeyt.Main
+io/github/foeyt/player/JPlayer.java
+ io.github.foeyt.player.JPlayer
