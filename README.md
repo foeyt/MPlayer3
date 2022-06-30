@@ -1,4 +1,5 @@
-# About This Repository
-This is a Java MP3 Player, I call it MPlayer3. It can search songs on netmusic, or you can play a playlist on netmusic with this.
+# 关于本仓库
 
--- A Java Noob
+一个用 Java 写的小程序，可以播放网易云音乐的歌单或者搜索歌曲
+
+——一个 Java 菜鸟
